@@ -11,12 +11,15 @@ git clone https://github.com/vu1nsec/Brumail-V2.git
 ```
 ## Utilisation
 Choisissez un domaine (ex: gmail.com / yahoo.com / icloud.com / proton.me / etc...)
+
 ![choose](https://github.com/user-attachments/assets/c801e460-8e0e-4493-b512-ee778ac2901b)
 
 Entrer les informations
+
 ![informations](https://github.com/user-attachments/assets/c61e88d0-d5d7-4f8e-a9a0-2fa19e1ec986)
 
 Et voila ! Vous avez votre liste
+
 ![result](https://github.com/user-attachments/assets/27a8913f-f20a-4852-8820-cc86807223a2)
 
 ## Contributions
